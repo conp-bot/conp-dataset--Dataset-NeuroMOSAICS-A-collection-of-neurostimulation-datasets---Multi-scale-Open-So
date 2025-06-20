@@ -1,0 +1,110 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.15692257",
+        "identifierSource": "DOI"
+    },
+    "title": "(Dataset) NeuroMOSAICS: A collection of neurostimulation datasets - Multi-scale Open-Source Across Interfaces Conditions & Species",
+    "creators": [
+        {
+            "name": "Lison Kardassevitch"
+        },
+        {
+            "name": "Davide Burchielli"
+        },
+        {
+            "name": "Numa Dancause"
+        },
+        {
+            "name": "Marco Bonizzato"
+        }
+    ],
+    "description": "<h2>About</h2>\n\n<p>Dataset provided for NeuroLibre preprint.</p>\n\n<p>\u2764\ufe0f Living preprint: <a href=\"https://preprint.neurolibre.org/10.55458/neurolibre.00033\">https://preprint.neurolibre.org/10.55458/neurolibre.00033</a></p>\n\n<p>Author repo: <a href=\"https://github.com/LisonK/NeuroMOSAICS\">https://github.com/LisonK/NeuroMOSAICS</a><br>\nNeuroLibre fork: <a href=\"https://github.com/roboneurolibre/neuromosaics\">https://github.com/roboneurolibre/neuromosaics</a></p>\n\n<p></p><p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/33\">NeuroLibre technical screening.</a></p><br>\n\n<p><strong><a href=\"https://neurolibre.org\" target=\"NeuroLibre\">https://neurolibre.org</a></strong></p><p></p>\n\n<p>\u2709\ufe0f <a href=\"mailto:info@neurolibre.org\">info@neurolibre.org</a></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 2.2,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/records/15692258",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "Canadian"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "unknown"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2025-06-18 22:25:46",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2025-06-18 22:25:46",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "unknown"
+            }
+        }
+    ]
+}
